@@ -12,3 +12,5 @@
 4. In the console run npm app.js to start thescrip
 
 **The script will output the CHIP-0007 json format of the csv file**
+
+### A live demo can be found at [link](https://replit.com/@ceasarSkills/HNG-NFTs-project#app.js)
