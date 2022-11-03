@@ -1,9 +1,6 @@
 const csvTojson = require("csvtojson");
 const jsonTocsv = require("json2csv").parse;
 const bcrypt = require("bcrypt"); // for hashing
-const crypto = require("crypto");
-// create hash algorithm
-const hash = crypto.createHash("sha256");
 // referencing the filsystem so as to load files
 const fileSystem = require("fs");
 
