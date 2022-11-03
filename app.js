@@ -63,7 +63,7 @@ csvTojson({ ignoreEmpty: true })
         ],
       });
       // save the new csv
-      fileSystem.writeFile("./new.csv", csv, (err) => {});
+      fileSystem.writeFile("./Team-Clutch.output.csv", csv, (err) => {});
     });
 
     console.log(CHIP_0007);
