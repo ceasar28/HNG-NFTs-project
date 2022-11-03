@@ -2,7 +2,7 @@
 
 ## A simple csv to CHIP-0007 compatible JSON and also generate SH265 values of each Nft
 
-### How to
+### How to use the script
 
 1. clone the repo from [Link](https://github.com/ceasar28/HNG-NFTs-project.git).
 2. Run npm install ( to install all the packages)
