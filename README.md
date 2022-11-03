@@ -11,4 +11,4 @@
    - at In csvTojson().fromFile("./Team-Clutch.csv") - replace Team-Clutch.output.csv with the output filename you want to write the
 4. In the console run npm app.js to start thescrip
 
-**Strong** The script will output the CHIP-0007 json format of the csv file
+**The script will output the CHIP-0007 json format of the csv file**
